@@ -1,0 +1,15 @@
+* Program ini digunakan oleh admin
+* Password : koperasi (saat mengetik password tidak akan terlihat di terminal)
+
+Ketentuan Koperasi
+- Modal awal koperasi adalah Rp.50000000
+- Setiap anggota wajib mendaftar/registrasi dan langsung ditarik biaya Rp.200000 sebagai simpanan pokok
+- Setiap anggota wajib menyimpan simpanan wajib setiap bulannya senilai Rp.50000
+- Simpanan pokok dan simpanan wajib tidak bisa diambil
+- Untuk menanggulangi keterlambatan/penunggakkan pembayaran simpanan wajib, tanggal diinput manual
+- Simpanan sukarela dapat diambil kapan saja dan dapat menyimpan uang berapapun
+- Peminjaman kembali tidak dapat dilakukan jika anggota punya pinjaman yang belum lunas (1 pinjaman belum lunas bagi setiap anggota)
+- Nominal maksimal peminjaman uang adalah 2 kali lipat dari simpanan sukarela
+- Nominal peminjaman tidak boleh lebih dari uang yang tersedia di koperasi
+- Bunga pinjaman adalah 5%
+- Pengembalian dapat kita tentukan berapa kali pembayaran dengan pilihan 3,6,10 kali pembayaran
